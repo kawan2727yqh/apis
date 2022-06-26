@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/sayo-api">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🎃+By+Breno+🎃"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🎃+By+Vlad+🎃"
             alt="Typing SVG"
         />
     </a>
