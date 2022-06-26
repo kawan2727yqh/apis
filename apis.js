@@ -18,8 +18,8 @@ const {
   ytSearch
 } = require("./lib/youtube");
 
-var criador = ['@venom']; // Nome do criador
-var key = 'venomkey' //apikey das apis
+var criador = ['@vlad']; // Nome do criador
+var key = 'vlad' //apikey das apis
 
 resposta = { //MSG DE ERRO NO SERVIDOR
     semkey: {
